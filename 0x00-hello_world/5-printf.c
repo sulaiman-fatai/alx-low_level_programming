@@ -2,6 +2,7 @@
 
 /*
  *main - Entry point
+ *Description: 'prints a string and follows it by a new line'
  *Return: Always 0 (Success)
  */
 
