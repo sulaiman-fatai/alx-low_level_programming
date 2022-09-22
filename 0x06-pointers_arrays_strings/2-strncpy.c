@@ -1,6 +1,10 @@
 #include "main.h"
 /**
- * _strncpy - Copies at most an inputted number
+ *strncpy - Copies a string
+ *@dest: A pointer to a character that will be changed
+ *@src: A pointer to a character that will be changed
+ *@n: value
+ *Return: dest*
  */
 char *_strncpy(char *dest, char *src, int n)
 {
