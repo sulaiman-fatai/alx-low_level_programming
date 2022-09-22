@@ -2,6 +2,7 @@
 
 /**
  * _strncat - Concatenates two strings using at most
+ * @n: value
  * @dest: The string to be appended upon.
  * @src: The string to be appended
  * Return: A pointer to the resulting string dest.
